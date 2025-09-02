@@ -537,10 +537,6 @@ footer .social-icons a {
 }
 
 
-
-/* -- Additional responsive rules: mobile and laptop -- */
-
-/* Mobile phones (small) */
 @media (max-width: 480px) {
   nav {
     padding: 12px;
@@ -560,7 +556,7 @@ footer .social-icons a {
     bottom: 0;
   }
 
-  /* Remove the large left offsets used for desktop */
+
   nav .post-job,
   nav .home a,
   nav .connections a,
@@ -710,7 +706,7 @@ footer .social-icons a {
     bottom: 0;
   }
 
-  /* remove large absolute offsets used for very wide screens */
+
   nav .post-job,
   nav .home a,
   nav .connections a,
